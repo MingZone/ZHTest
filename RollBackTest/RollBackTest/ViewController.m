@@ -20,6 +20,8 @@
     self.view.backgroundColor = [UIColor greenColor];
     
     UIButton *btn = [UIButton new];
+    
+    UIButton *btn1;
 }
 
 
