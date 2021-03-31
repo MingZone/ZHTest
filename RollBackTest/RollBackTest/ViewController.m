@@ -26,6 +26,9 @@
     UIButton *btn5;
     
     UIButton *btn6;
+    
+    UIButton *btn7;
+
 
 }
 
