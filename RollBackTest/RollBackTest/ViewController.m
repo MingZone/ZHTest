@@ -29,9 +29,8 @@
     
     UIButton *btn7;
 
-    UIButton *btn10;
 
-
+    NSLog(@"revert后新的提交");
 }
 
 
