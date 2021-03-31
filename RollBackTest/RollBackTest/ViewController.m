@@ -22,6 +22,8 @@
     UIButton *btn = [UIButton new];
     
     UIButton *btn1;
+    
+    UIButton *btn5;
 }
 
 
