@@ -39,6 +39,8 @@
     
     NSObject *obj1;
 
+    NSObject *obj2;
+
 }
 
 
