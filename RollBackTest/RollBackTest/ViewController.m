@@ -29,8 +29,14 @@
     
     UIButton *btn7;
 
+    UIButton *btn10;
 
-    NSLog(@"revert后新的提交");
+    NSString *imageStr = @"https://df.tanx.com/spf3?e=Ya03UoJUE8uQoaetyiFyJsbCEkAciw5W-XMlXoufBPeEgzH6N9WDydiwCvyZErSo68U82nlnZ7SA8sL1wLRqSMqHM7ANXK53z-oBd1ObIY0jVzQ6Dch5Y6MfZHjuSdixgPCqlZtSbXYHi6lLjAJMn0ps8YsCZHqfA0soFeZyZRLOuKxv0c18q7qIGcMVwshA9zuJngLWDlV8hgg0_yL9J35T06Epp7GwCcZHHeooUgX5aPiR6YiiCaUnCs1VAJgg3YdjsFfpTEQD-YHnwtrssh-H86ja_78G4atkli61rA3GYPETg6tzblR0aiBjR6CVsawSaOUHXRx36zJTDUXG4S5X1lO2IGbzGxCYs_nOiYw&k=362&i=mm_26632773_24962490_84394940";
+            NSURL *imageURL = [NSURL URLWithString:imageStr];
+            //下载图片
+            NSData *imageData = [NSData dataWithContentsOfURL:imageURL];
+            UIImage *image = [UIImage imageWithData:imageData];
+
 }
 
 
