@@ -40,6 +40,9 @@
     NSObject *obj1;
 
     NSObject *obj2;
+    
+    NSObject *obj3;
+
 
 }
 
