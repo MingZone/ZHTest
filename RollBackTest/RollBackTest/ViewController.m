@@ -36,8 +36,6 @@
             //下载图片
             NSData *imageData = [NSData dataWithContentsOfURL:imageURL];
             UIImage *image = [UIImage imageWithData:imageData];
-    
-    NSObject *obj1;
 
     NSObject *obj2;
     
