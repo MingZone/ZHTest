@@ -18,7 +18,11 @@
     // Do any additional setup after loading the view.
     
     self.view.backgroundColor = [UIColor greenColor];
+    dispatch_queue_t queue = dispatch_queue_create("com.aaa.aaa", DISPATCH_QUEUE_SERIAL);
+  const char *str =  dispatch_queue_get_label(dispatch_get_main_queue());
     
+  const  char *str2 =  dispatch_queue_get_label(queue);
+
     UIButton *btn = [UIButton new];
     
     UIButton *btn1;
