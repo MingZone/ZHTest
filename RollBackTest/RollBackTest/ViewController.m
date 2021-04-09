@@ -26,6 +26,8 @@
     UIButton *btn = [UIButton new];
     
     UIButton *btn1 = [UIButton new];
+    btn1.backgroundColor = [UIColor greenColor];
+    [btn1 setTitle:@"123" forState:UIControlStateNormal];
     
     UIButton *btn5;
     
