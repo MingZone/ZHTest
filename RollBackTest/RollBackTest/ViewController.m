@@ -26,6 +26,7 @@
     UIButton *btn = [UIButton new];
     
     UIButton *btn1 = [UIButton buttonWithType:UIButtonTypeCustom];
+    btn1.backgroundColor = [UIColor redColor];
     
     UIButton *btn5;
     
