@@ -25,7 +25,7 @@
 
     UIButton *btn = [UIButton new];
     
-    UIButton *btn1;
+    UIButton *btn1 = [UIButton buttonWithType:UIButtonTypeCustom];
     
     UIButton *btn5;
     
