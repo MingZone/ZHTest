@@ -26,7 +26,9 @@
     UIButton *btn = [UIButton new];
     
     UIButton *btn1 = [UIButton buttonWithType:UIButtonTypeCustom];
-    NSLog(@"reslove conflict");
+
+    btn1.backgroundColor = [UIColor redColor];
+
     
     UIButton *btn5;
     
