@@ -26,6 +26,7 @@
     UIButton *btn = [UIButton new];
     
     UIButton *btn1 = [UIButton buttonWithType:UIButtonTypeCustom];
+    NSLog(@"reslove conflict");
     
     UIButton *btn5;
     
