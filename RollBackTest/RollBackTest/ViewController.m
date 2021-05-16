@@ -26,12 +26,12 @@
     UIButton *btn = [UIButton new];
     
 
+
     UIButton *btn1 = [UIButton buttonWithType:UIButtonTypeCustom];
 
    
     btn1.backgroundColor = [UIColor greenColor];
     [btn1 setTitle:@"123" forState:UIControlStateNormal];
-
     
     UIButton *btn5;
     
@@ -58,6 +58,7 @@
 
     UIView *view03;
 
+
     UIColor *color_01;
 
     UIView *view0333;
@@ -72,6 +73,8 @@
     NSLog(@"stash - - - - ");
 
     
+    NSLog(@"哈哈哈哈哈哈哈");
+
 }
 
 
