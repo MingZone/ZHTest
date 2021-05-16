@@ -52,6 +52,8 @@
     NSObject *obj3;
 
 
+    UIView *view03;
+    
 }
 
 
