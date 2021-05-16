@@ -55,6 +55,7 @@
     UIView *view0333;
     
     
+    UIColor *color_01;
     
 }
 
