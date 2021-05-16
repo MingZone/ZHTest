@@ -48,6 +48,7 @@
     NSObject *obj3;
 
 
+    NSLog(@"哈哈哈哈哈哈哈");
 }
 
 
