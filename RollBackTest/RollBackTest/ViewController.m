@@ -56,6 +56,8 @@
     UIView *view2;
 
 
+    UIView *view03;
+    
 }
 
 
