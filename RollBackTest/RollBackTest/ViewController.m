@@ -58,6 +58,13 @@
     UIColor *color_01;
     
     NSLog(@"stash - - - - ");
+    NSLog(@"stash - - - - ");
+    NSLog(@"stash - - - - ");
+    NSLog(@"stash - - - - ");
+    NSLog(@"stash - - - - ");
+    NSLog(@"stash - - - - ");
+    NSLog(@"stash - - - - ");
+    
     
     
 }
