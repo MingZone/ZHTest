@@ -50,6 +50,8 @@
     NSObject *obj2;
     
     NSObject *obj3;
+    
+    UIView *view1;
 
 
 }
